@@ -16,13 +16,4 @@
             </adminhtml>
         </routers>
     </admin>
-    <adminhtml>
-        <layouts>
-            <update>
-                <hidedashboard>
-                    <file>hidedashboard.xml</file>
-                </hidedashboard>
-            </update>
-        </layouts>
-    </adminhtml>
 </config>
